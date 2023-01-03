@@ -33,30 +33,26 @@ const About = () => {
             />
           </h1>
           <p>
-            A purely peer-to-peer version of electronic cash would allow online
-            payments to be sent directly from one party to another without going
-            through a financial institution. Digital signatures provide part of
-            the solution, but the main benefits are lost if a trusted third
-            party is still required to prevent double-spending.
+            Hi! I am Ziyang Huang. I am a passionate, adventurous and
+            hard-working software engineer. I am currently a master student in
+            University of Melbourne studying computer science. 2023 will be the
+            last year of my master's degree.
           </p>
 
           <p>
-            We propose a solution to the double-spending problem using a
-            peer-to-peer network. The network timestamps transactions by hashing
-            them into an ongoing chain of hash-based proof-of-work, forming a
-            record that cannot be changed without redoing the proof-of-work. The
-            longest chain not only serves as proof of the sequence of events
-            witnessed, but proof that it came from the largest pool of CPU
-            power. As long as a majority of CPU power is controlled by nodes
-            that are not cooperating to attack the network, they'll generate the
-            longest chain and outpace attackers.
+            In 2023, I will be doing a research project in the university. My
+            research interest is around machine learning and computer vision.
+            While doing the project, I would like to do an internship in the
+            industry hopefully. I am exploring diffrent roles like software
+            engineer, machine learning engineer, devops in my free time, and I
+            am happy to do either of these roles.
           </p>
 
           <p>
-            The network itself requires minimal structure. Messages are
-            broadcast on a best effort basis, and nodes can leave and rejoin the
-            network at will, accepting the longest proof-of-work chain as proof
-            of what happened while they were gone.
+            My skill set includes Css, Html, JavaScript, React, Java, Python,
+            Pytorch, TensorFlow, OpenCV and so on. If you have any interest in
+            contacting me for research topic or internship opportunities, please
+            go to the contact page :)
           </p>
         </div>
 

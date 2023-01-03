@@ -48,11 +48,12 @@ const Contact = () => {
             />
           </h1>
           <p>
-            A purely peer-to-peer version of electronic cash would allow online
-            payments to be sent directly from one party to another without going
-            through a financial institution. Digital signatures provide part of
-            the solution, but the main benefits are lost if a trusted third
-            party is still required to prevent double-spending.
+            Hi, I'm Ziyang, I am currently a master student in University of
+            Melbourne studying computer science. My research interest is around
+            machine learning and computer vision. I am very happy to discuss
+            potential research topics with you :) I am also looking an
+            internship in the industry. Feel free to contact me using the
+            following form!
           </p>
           <div className="contact-form">
             <form ref={form} onSubmit={sendEmail}>
