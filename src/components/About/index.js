@@ -33,26 +33,28 @@ const About = () => {
             />
           </h1>
           <p>
-            Hi! I am Ziyang Huang. I am a passionate, adventurous and
-            hard-working software engineer. I am currently a master student in
-            University of Melbourne studying computer science. 2023 will be the
+            Hi! I am Ziyang Huang. I am a passionate, proactive and diligent
+            software engineer. I am currently an University of Melbourne
+            Master's student specialising in Computer Science. 2023 will be the
             last year of my master's degree.
           </p>
 
           <p>
             In 2023, I will be doing a research project in the university. My
-            research interest is around machine learning and computer vision.
-            While doing the project, I would like to do an internship in the
-            industry hopefully. I am exploring diffrent roles like software
-            engineer, machine learning engineer, devops in my free time, and I
-            am happy to do either of these roles.
+            research interest encompasses machine learning and computer vision.
+            In parallel to my academic project, I am proactively looking for an
+            internship in the industry. I am open to explore various roles
+            including but not limited to software engineer, machine learning
+            engineer, devops, and I am looking forward to any challenges ahead
+            and am extremely willing to uptake any new skillsets along the way.
           </p>
 
           <p>
-            My skill set includes Css, Html, JavaScript, React, Java, Python,
+            My skillsets include Css, Html, JavaScript, React, Java, Python,
             Pytorch, TensorFlow, OpenCV and so on. If you have any interest in
-            contacting me for research topic or internship opportunities, please
-            go to the contact page :)
+            contacting me for any research topic or internship opportunities,
+            please reach out to me through the contact page :)
+            <p>Looking forward to chat with you.</p>
           </p>
         </div>
 

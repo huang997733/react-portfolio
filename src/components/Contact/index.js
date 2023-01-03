@@ -48,11 +48,12 @@ const Contact = () => {
             />
           </h1>
           <p>
-            Hi, I'm Ziyang, I am currently a master student in University of
-            Melbourne studying computer science. My research interest is around
-            machine learning and computer vision. I am very happy to discuss
-            potential research topics with you :) I am also looking an
-            internship in the industry. Feel free to contact me using the
+            Hi, I'm Ziyang, I am currently an University of Melbourne Master's
+            student specialising in Computer Science. My research interest
+            encompasses machine learning and computer vision, and I am looking
+            forward to discuss any potential research topics with you :). At
+            this point in time, I am also looking for an internship opportunity
+            in the industry. Please do not hesitate to contact me using the
             following form!
           </p>
           <div className="contact-form">
