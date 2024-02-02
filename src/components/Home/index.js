@@ -1,14 +1,13 @@
 import { useEffect, useState } from 'react'
 import Loader from 'react-loaders'
 import { Link } from 'react-router-dom'
-import LogoTitle from '../../assets/images/logo-Z.png'
 import AnimatedLetters from '../AnimatedLetters'
 import './index.scss'
 
 const Home = () => {
   const [letterClass, setLetterClass] = useState('text-animate')
-  const nameArray = ['H', 'u', 'a', 'n', 'g', ',']
-  const jobArray = ['A', ' ', 'D', 'e', 'v', 'e', 'l', 'o', 'p', 'e', 'r', '.']
+  const nameArray = " William Huang,".split('')
+  const jobArray = "A Fullstack Developer.".split('')
 
   useEffect(() => {
     setTimeout(() => {
@@ -26,7 +25,7 @@ const Home = () => {
             <br />
             <span className={`${letterClass} _13`}>I</span>
             <span className={`${letterClass} _14`}>'m</span>
-            <img src={LogoTitle} alt="developer" />
+            {/* <img src={LogoTitle} alt="developer" /> */}
             <AnimatedLetters
               letterClass={letterClass}
               strArray={nameArray}
@@ -36,11 +35,11 @@ const Home = () => {
             <AnimatedLetters
               letterClass={letterClass}
               strArray={jobArray}
-              idx={21}
+              idx={14}
             />
           </h1>
           <h2>
-            Computer Vision / Machine Learning Engineer / Software Engineer
+            Software Engineer / Fullstack Developer
           </h2>
           <Link to="/contact" className="flat-button">
             CONTACT ME

@@ -34,25 +34,24 @@ const About = () => {
           </h1>
           <p>
             Hi! I am Ziyang Huang. I am a passionate, proactive and diligent
-            software engineer. I am currently an University of Melbourne
-            Master's student specialising in Computer Science. 2023 will be the
-            last year of my master's degree.
+            software engineer. I graduated from the University of Melbourne
+            as a Master's Computer Science on December 2023. Now I am looking
+            for an job opportunity in the industry.
           </p>
 
           <p>
-            In 2023, I will be doing a research project in the university. My
-            research interest encompasses machine learning and computer vision.
-            In parallel to my academic project, I am proactively looking for an
-            internship in the industry. I am open to explore various roles
-            including but not limited to software engineer, machine learning
-            engineer, devops, and I am looking forward to any challenges ahead
-            and am extremely willing to uptake any new skillsets along the way.
+            During my study, I have been working on several projects, including
+            a web application, a machine learning project
+            for a research group, and a group project for a mobile application.
+            I have been working on these projects with a team and have been
+            responsible for the front-end and back-end development. 
           </p>
 
           <p>
-            My skillsets include Css, Html, JavaScript, React, Java, Python,
+            My skillsets include CSS, Html, JavaScript, TypeScript, React, Java, Python,
+            SpringBoot, MongoDB, MySQL, Git, 
             Pytorch, TensorFlow, OpenCV and so on. If you have any interest in
-            contacting me for any research topic or internship opportunities,
+            contacting me for any job opportunities,
             please reach out to me through the contact page :)
             <p>Looking forward to chat with you.</p>
           </p>
